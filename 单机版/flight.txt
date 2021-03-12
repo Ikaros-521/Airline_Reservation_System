@@ -1,0 +1,10 @@
+f001 f1 a b 8
+f002 f2 a c 22
+f003 f3 b c 33
+f004 f4 a b 43
+f005 f5 a c 55
+f006 f6 b d 66
+f007 f7 c a 77
+f008 f8 c d 88
+f009 f9 d a 99
+f010 f10 d b 10
