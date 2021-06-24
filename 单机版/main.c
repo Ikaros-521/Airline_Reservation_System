@@ -334,7 +334,7 @@ bool change_pas_info(void)
         int i = 0;
         for(i = 0; i < MAX_Passenger; i++)
         {
-            if(strcmp(online_pid, ORD[i].pid) == 0)
+            if(strcmp(online_pid, PAS[i].pid) == 0)
             {
                 printf("pid:%s, pname:%s\npassword:%s, tell:%s\n", PAS[i].pid, PAS[i].pname, PAS[i].password, PAS[i].tell);
                 break;
